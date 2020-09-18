@@ -2,6 +2,8 @@
 The idioms of software programming
 
 
+Check also -> https://github.com/vkku/SOLID-Principles
+
 Strategy -> Composition
 
 Builder vs Facade
